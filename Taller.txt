@@ -1,0 +1,67 @@
+Clasifica el texto en neutral, negativo o positivo. 
+Texto: Esta es una película totalmente recomendable. 
+Sentimiento:
+
+
+Un "leon" es un animal grande y peludo originario de Africa. 
+Un ejemplo de una oración que usa la palabra leon es:
+Estábamos viajando por África y vimos algunos leones muy lindos.
+Hacer un "taller" significa mostrar algo nuevo. 
+Un ejemplo de una oración que usa la palabra taller es:
+
+
+
+Los números impares en este grupo suman un número par: 4, 8, 9, 15, 12, 2, 1.
+A: Al sumar todos los números impares (9, 15, 1) se obtiene 25. La respuesta es Falsa.
+Los números impares en este grupo suman un número par: 17,  10, 19, 4, 8, 12, 24.
+A: Al sumar todos los números impares (17, 19) se obtiene 36. La respuesta es Verdadera.
+Los números impares en este grupo suman un número par: 16,  11, 14, 4, 8, 13, 24.
+A: Al sumar todos los números impares (11, 13) se obtiene 24. La respuesta es Verdadera.
+Los números impares en este grupo suman un número par: 17,  9, 10, 12, 13, 4, 2.
+A: Al sumar todos los números impares (17, 9, 13) se obtiene 39. La respuesta es Falsa.
+Los números impares en este grupo suman un número par: 15, 32, 5, 13, 82, 7, 1. 
+A:
+
+
+
+
+Los números impares en este grupo suman un número par: 4, 8, 9, 15, 12, 2, 1.
+A: Al sumar todos los números impares (9, 15, 1) se obtiene 25. La respuesta es Falsa.
+Los números impares en este grupo suman un número par: 15, 32, 5, 13, 82, 7, 1. 
+A:
+
+
+
+
+
+
+Leonardo tiene 5 galletas. Él compra 2 paquetes más de gallas. Cada paquete de galletes tiene 3 galletas.
+¿Cuántas galletas tiene ahora?
+R= la respuesta es 11
+
+una cafetería tiene 23 huevos. Si ellos usan 20 para hacer el desayuno y compran 10 huevos más 
+cuantos huevos tienen ahora
+
+
+
+
+
+Leonardo tiene 5 galletas. Él compra 2 paquetes más de gallas. Cada paquete de galletes tiene 3 galletas.
+¿Cuántas galletas tiene ahora?
+R= Leonardo inicio con 5 galletas. 2 paquetes de galletas que cada uno tiene 3 galletas. 5 + 6 = 11. La respuesta es 11
+
+una cafetería tiene 23 huevos. Si ellos usan 20 para hacer el desayuno y compran 10 huevos más 
+cuantos huevos tienen ahora
+R= 
+
+
+
+
+Cuando tenía 6 años, mi hermana tenía la mitad de mi edad. Ahora tengo 70 años, 
+¿cuántos años tiene mi hermana?
+
+
+
+
+
+
